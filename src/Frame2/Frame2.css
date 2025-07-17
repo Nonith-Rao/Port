@@ -1,0 +1,454 @@
+.frame-2,
+.frame-2 * {
+  box-sizing: border-box;
+}
+.frame-2 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.frame-2 ._99-2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-2 .glass-for-adobe-1 {
+  width: 1300px;
+  height: 590px;
+  position: absolute;
+  left: -172px;
+  top: -20px;
+  object-fit: cover;
+  aspect-ratio: 1267/590;
+}
+.frame-2 .glass-for-adobe-2 {
+  width: 1300px;
+  height: 590px;
+  position: absolute;
+  left: 181px;
+  top: -20px;
+  object-fit: cover;
+  aspect-ratio: 1267/590;
+}
+.frame-2 .glass-for-adobe-9 {
+    width: 1305px;
+
+  height: 590px;
+  position: absolute;
+  left: 901px;
+  top: -20px;
+  object-fit: cover;
+  aspect-ratio: 1267/590;
+}
+.frame-2 .glass-for-adobe-3 {
+  width: 1300px;
+  height: 590px;
+  position: absolute;
+  left: 557px;
+  top: -20px;
+  object-fit: cover;
+  aspect-ratio: 1267/590;
+}
+.frame-2 .adobe-photoshop {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 142px;
+  top: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 .adobe-illustrator {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 507px;
+  top: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 .adobe-premier-pro {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1227px;
+  top: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 .ae {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 781px;
+  top: 92px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-2 .adobe-after-effects {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 880px;
+  top: 115px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 .arrow-1 {
+  width: 47px;
+  height: 34px;
+  position: absolute;
+  left: 1353px;
+  top: 605px;
+  object-fit: cover;
+  aspect-ratio: 47/34;
+  margin-top: 100px;
+}
+.frame-2 .advanced-photo-retouching-manipulation {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 202px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 .precision-masking-cutouts-using-channels-select-mask-pen-tool {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 246px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 .realistic-shadows-lighting {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 289px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 .custom-brush-creation-for-painting-texturing-and-concept-art {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 315px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .perspective-warp-vanishing-point-editing-for-environment-manipulation {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 361px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .replicating-any-style-whether-it-s-vintage-grain-magazine-retouching-or-cinematic-glow {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 69px;
+  top: 428px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .advanced-vector-manipulation-for-building-complex-compositions-in-large-format-poster-layouts {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 419px;
+  top: 198px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 ._3-d-typography-for-logos-and-poster-designs {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 419px;
+  top: 259px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .dynamic-poster-layouts-using-illustrator-s-layering-system-opacity-blending-and-shape-hierarchies {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 419px;
+  top: 302px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .large-format-optimization-posters-that-scale-cleanly-from-thumbnails-to-billboards {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 419px;
+  top: 361px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .advanced-rotoscoping-techniques-using-roto-brush-2-0-and-manual-masking-for-clean-subject-isolation {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 791px;
+  top: 198px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  ._3-d-camera-tracking-integration-syncing-real-footage-with-3-d-text-layers-and-visual-elements-seamlessly {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 791px;
+  top: 255px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .dynamic-title-text-animation-using-keyframes-expressions-and-motion-blur-for-cinematic-appeal {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 791px;
+  top: 312px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .motion-graphics-and-design-for-social-media-short-form-looping-animations-optimized-for-reels-stories-and-posts {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 791px;
+  top: 367px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .stylized-transitions-scene-switches-wipes-morphs-reveals-and-layered-transition {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 791px;
+  top: 437px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .non-linear-video-editing-using-timeline-based-workflow-for-precise-storytelling-trimming-cutting-clips-with-ripple-roll-and-slip-tools-for-smooth-transitions-basic-color-correction-using-lumetri-color-for-contrast-exposure-and-saturation-adjustment-audio-editing-syncing-volume-balancing-noise-removal-and-syncing-music-or-dialogue {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1131px;
+  top: 201px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .multi-layer-timeline-editing-combining-clips-overlays-and-adjustment-layers {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1131px;
+  top: 420px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .integration-with-after-effects-for-dynamic-link-workflows-and-motion-enhancements {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1131px;
+  top: 466px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2
+  .i-can-efficiently-deliver-visually-consistent-content-using-canva-tools-too-while-maintaining-strong-design-fundamentals {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 559px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 150px;
+}
+.i-can-efficiently-deliver-visually-consistent-content-using-canva-tools-too-while-maintaining-strong-design-fundamentals-span {
+  color: #000000;
+  font-family: "Belanosima", sans-serif;
+}
+.i-can-efficiently-deliver-visually-consistent-content-using-canva-tools-too-while-maintaining-strong-design-fundamentals-span2 {
+  color: #000000;
+  font-family: "Belanosima", sans-serif;
+  font-weight: 600;
+}
+.frame-2 .about-me {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1175px;
+  top: 606px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  margin-top: 100px;
+  cursor: pointer;
+}
+.frame-2 .pr {
+  width: 114px;
+  height: 114px;
+  position: absolute;
+  left: 1120px;
+  top: 88px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-2 .ps {
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  left: 41px;
+  top: 89px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-2 .chat-gpt-image-jul-16-2025-11-26-27-pm-1 {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 415px;
+  top: 99px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-2 .my-skills {
+  color: #141414;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

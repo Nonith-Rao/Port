@@ -1,0 +1,74 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-image: url("ff.GIF");
+  background-size: fill;
+  background-position: center;
+  overflow: hidden;
+}
+.frame-1 .purple-1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  aspect-ratio: 1;
+}
+.frame-1 ._99-1 {
+  width: 100%;
+  height: 674px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  top: 0px;
+  object-fit: fill;
+  aspect-ratio: 1448/674;
+}
+.frame-1 .purple-12 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.frame-1 .click-here-to-continue {
+  color: #000000;
+  text-align: left;
+  font-family: "Belanosima", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: absolute;
+  left: 75px;
+  top: 538px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  margin-top: 100px;
+}
+.frame-1 .frame-3 {
+  width: 96px;
+  height: 69px;
+  position: absolute;
+  left: 115px;
+  top: 474px;
+}
+.frame-1 .arrow-1 {
+  width: 96px;
+  height: 69px;
+  position: absolute;
+  left: 75px;
+  top: 474px;
+  object-fit: cover;
+  aspect-ratio: 96/69;
+  margin-top: 100px;
+  cursor: pointer;
+}
